@@ -8,6 +8,18 @@
       "expo-router"
     ],
     "name": "jsMasteryNative",
-    "slug": "jsMasteryNative"
+    "slug": "jobseeker",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "1c58805e-6dfa-4571-8eb7-c68f2ba322f6"
+      }
+    },
+    "owner": "pawankumar1212",
+    "android": {
+      "package": "com.pawankumar1212.jobseeker"
+    }
   }
 }
